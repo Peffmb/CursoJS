@@ -15,3 +15,6 @@ const nome1 = "Pedro";
 const nome2 = "pedro";
 
 console.log(nome1 === nome2);
+
+
+
