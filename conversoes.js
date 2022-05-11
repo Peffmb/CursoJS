@@ -3,7 +3,9 @@
 
 // conversão implícita
 const numero = 456;
-// const numeroString = ("456a");
+// const numeroString = ("456a"); // tipo string
+
+const numeroString = number("456a"); // converte para numero
 
 
 
